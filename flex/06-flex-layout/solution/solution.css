@@ -43,6 +43,7 @@ button {
   justify-content: center;
   flex-direction: column;
   gap: 16px;
+  padding: 20px;
 }
 
 a {
