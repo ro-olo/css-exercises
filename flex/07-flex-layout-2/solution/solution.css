@@ -49,8 +49,9 @@ body {
 }
 
 .sidebar {
+  display: flex;
   flex-shrink: 0;
-  padding: 16px;
+  padding: 20px;
 }
 
 ul {
